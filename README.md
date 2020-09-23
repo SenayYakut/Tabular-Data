@@ -10,7 +10,7 @@ In this pROJECT, I’ll use the HTML <table> element to present information in a
 
 
 ```bash
-pip install foobar
+git clone https://github.com/SenayYakut/Tabular-Data.git
 ```
 
 ## Usage
