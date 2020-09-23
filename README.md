@@ -15,13 +15,13 @@ pip install foobar
 
 ## Usage
 
-```python
-import foobar
+```bash 
+cd Tabular-Data
+http-server # This will display the page locally
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
+or
+ Go to the page site https://senayyakut.github.io/Tabular-Data/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
